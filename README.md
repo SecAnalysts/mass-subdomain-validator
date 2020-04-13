@@ -12,6 +12,8 @@ result.txt (dalam pengembangan)<br>
 buat yang mau bantu ngembangin silahkan
 
 
-contact :<br>
-email :seakerdioz@gmail.com<br>
-https://www.youtube.com/channel/UC6LGAkkPZtvNz9DqXu7hOUw
+contact email :seakerdioz@gmail.com <br><br>
+youtube :
+https://www.youtube.com/channel/UC6LGAkkPZtvNz9DqXu7hOUw <br><br>
+Writeup Cyber (WRC)<br>
+https://www.writeupcyber.com/
